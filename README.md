@@ -21,4 +21,5 @@ Deep Learning Predicted Outputs on Test datasets;
 ![image](https://github.com/SohelRana-aiub-Pro/Heart-MRI-Image-Left-Atrial-Segmentation-Challenge-Via-Deep-Learning-Models/assets/133596903/1482f504-2468-4027-8a88-0dc7226d2ca2)
 
 
-
+Conclusion;
+The "Heart MRI Image-Left Atrial Segmentation" dataset offers a comprehensive and diverse collection of cardiac MRI images along with expert annotations for precise left atrial segmentation. This dataset aims to accelerate research and development in the field of cardiac imaging and provide a foundation for advancing automated analysis techniques, ultimately leading to improved diagnosis, treatment, and management of cardiac conditions related to the left atrium.
